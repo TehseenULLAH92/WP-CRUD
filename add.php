@@ -18,7 +18,7 @@ if(isset($_POST['submit']))
 		'company_name' 	=> $company_name,
     ));
 
-	$message="Data Inserted";
+	$message="Data Inserted Successfully";
 }
 ?>
 
